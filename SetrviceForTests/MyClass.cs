@@ -10,6 +10,7 @@ namespace SetrviceForTests
 
             Console.WriteLine("Bay-bay!!!");
             Console.WriteLine("Pupsik");
+
             Console.WriteLine();
         }
 
@@ -26,6 +27,8 @@ namespace SetrviceForTests
 
             Console.WriteLine();
 
+
+            Console.WriteLine(1);
 
 
         }
