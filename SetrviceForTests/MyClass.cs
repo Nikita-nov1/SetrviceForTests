@@ -15,6 +15,7 @@ namespace SetrviceForTests
 
         public void SomeMethod(int number)
         {
+            Console.WriteLine("Other people");
             Console.WriteLine(number);
         }
     }
