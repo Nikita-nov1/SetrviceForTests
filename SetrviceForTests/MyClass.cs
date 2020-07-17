@@ -12,5 +12,10 @@ namespace SetrviceForTests
             Console.WriteLine("Pupsik");
             Console.WriteLine();
         }
+
+        public void SomeMethod()
+        {
+
+        }
     }
 }
