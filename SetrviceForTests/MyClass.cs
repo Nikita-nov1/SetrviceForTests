@@ -19,6 +19,11 @@ namespace SetrviceForTests
             Console.WriteLine(number);
 
             Console.WriteLine("I");
+
+            Console.WriteLine("1");
+
+
+
         }
     }
 }
