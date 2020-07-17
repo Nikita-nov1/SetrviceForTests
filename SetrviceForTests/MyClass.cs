@@ -15,12 +15,14 @@ namespace SetrviceForTests
 
         public void SomeMethod(int number)
         {
+            Console.WriteLine("2");
             Console.WriteLine("Other people");
             Console.WriteLine(number);
 
             Console.WriteLine("I");
 
             Console.WriteLine("1");
+            Console.WriteLine();
 
 
             Console.WriteLine(1);
