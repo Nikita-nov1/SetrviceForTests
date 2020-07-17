@@ -22,6 +22,7 @@ namespace SetrviceForTests
             Console.WriteLine("I");
 
             Console.WriteLine("1");
+            Console.WriteLine();
 
 
 
