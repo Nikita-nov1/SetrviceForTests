@@ -10,6 +10,7 @@ namespace SetrviceForTests
             Console.WriteLine($"Hello {name} , date : {DateTime.Now.Date}");
 
             Console.WriteLine("Bay-bay!!!");
+
             Console.WriteLine("Pupsik");
 
 
