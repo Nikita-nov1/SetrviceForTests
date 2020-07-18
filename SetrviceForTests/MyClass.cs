@@ -36,6 +36,7 @@ namespace SetrviceForTests
 
 
             Console.WriteLine(1);
+            Console.WriteLine("Hello world");
 
 
         }
