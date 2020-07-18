@@ -13,6 +13,10 @@ namespace SetrviceForTests
             Console.WriteLine("Pupsik");
 
             Console.WriteLine(DateTime.Now);
+            Console.WriteLine(DateTime.Now);
+
+
+
         }
 
         public void SomeMethod(int number)
