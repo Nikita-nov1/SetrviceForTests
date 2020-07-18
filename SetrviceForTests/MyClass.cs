@@ -13,11 +13,7 @@ namespace SetrviceForTests
         {
                 //
             Console.WriteLine($"Hello {name} , date : {DateTime.Now.Date}");
-
-            Console.WriteLine("Bay-bay!!!");
-
-            Console.WriteLine("Pupsik");
-
+            //hotfix
 
             Console.WriteLine(DateTime.Now);
             Console.WriteLine("Испарвил !");
@@ -33,19 +29,7 @@ namespace SetrviceForTests
         {
             Console.WriteLine("2");
             Console.WriteLine("Other people");
-            Console.WriteLine(number);
-
-            Console.WriteLine("I");
-
-            Console.WriteLine("1");
-            Console.WriteLine();
-
-            Console.WriteLine();
-
-
-            Console.WriteLine(1);
-
-
+          
         }
 
         public void MyName(string name)
