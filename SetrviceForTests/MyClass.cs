@@ -15,9 +15,7 @@ namespace SetrviceForTests
 
 
             Console.WriteLine(DateTime.Now);
-            Console.WriteLine(DateTime.Now);//
-
-
+            Console.WriteLine("Испарвил !");
 
         }
 
