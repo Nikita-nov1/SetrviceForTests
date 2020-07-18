@@ -22,7 +22,7 @@ namespace SetrviceForTests
 
         public void NewMethod()
         {
-
+            Console.WriteLine(1);
         }
 
         public void NewMethod2()
