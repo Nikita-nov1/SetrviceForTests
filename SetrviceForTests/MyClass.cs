@@ -25,6 +25,11 @@ namespace SetrviceForTests
 
         }
 
+        public void NewMethod2()
+        {
+
+        }
+
         public void SomeMethod(int number)
         {
             Console.WriteLine("2");
