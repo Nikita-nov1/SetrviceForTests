@@ -2,7 +2,12 @@
 
 namespace SetrviceForTests
 {
-    public class MyClass
+    public interface IMyClass
+    {
+        void MyName(string name);
+    }
+
+    public class MyClass : IMyClass
     {
         public void WriteYourName(string name)
         {
@@ -38,6 +43,11 @@ namespace SetrviceForTests
             Console.WriteLine(1);
 
 
+        }
+
+        public void MyName(string name)
+        {
+            Console.WriteLine(name);
         }
     }
 }
