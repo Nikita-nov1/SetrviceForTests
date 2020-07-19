@@ -24,6 +24,8 @@ namespace SetrviceForTests
         public void NewMethod()
         {
             Console.WriteLine(1);
+            Console.WriteLine();
+            Console.WriteLine();
         }
 
         public void NewMethod2()
