@@ -18,6 +18,7 @@ namespace SetrviceForTests
             Console.WriteLine(DateTime.Now);
             Console.WriteLine("Испарвил !");
 
+
         }
 
         public void NewMethod()
